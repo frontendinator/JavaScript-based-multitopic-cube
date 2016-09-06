@@ -27,4 +27,5 @@ var totermofservice = document.querySelector("#totermofservice"),
 		return false;
 	};
 };
+
 window.addEventListener("load", openText);
