@@ -5,8 +5,7 @@ of multitopic stuff.
 ## Getting started
 Open the file "cube.html", press the left button over the cube and move the mouse inside of cube.
 
-#### To change sensitivity of the mouse pointer you have to multiply or divide properties ```e.clientX``` and ```e.clientY``` 
-####by certain number. 
+#### To change sensitivity of the mouse pointer you have to multiply or divide properties ```e.clientX``` and ```e.clientY``` by certain number. 
 
 For example, if you want to decrease the mouse pointer sensitivity you shoud open the file "functionforcube.js" and replace code fragment 
 
